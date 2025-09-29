@@ -5,6 +5,8 @@ description: 'This resource contains information regarding ancient Greek philoso
 file: /courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/fa90abe739bba35d7974268ef01de170_MITES_113S16_Arithmos.pdf
 file_size: 598808
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
